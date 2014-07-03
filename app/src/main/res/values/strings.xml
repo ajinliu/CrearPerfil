@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CrearPerfil</string>
+    <string name="Wsucursal">Sucursal:</string>
+    <string name="Waplicacion">Aplicacion:</string>
+    <string name="Wusuario">Usuario:</string>
+    <string name="Wcontra">Contraseña:</string>
+    <string name="Wdriver">Driver:</string>
+    <string name="Wservidor">Servidor:</string>
+    <string name="Wpuerto">Puerto:</string>
+    <string name="Wentorno">Entorno:</string>
+    <string name="Wconfiguracion">Configuracion:</string>
+    <string name="Westructura">Estructura:</string>
+    <string name="Wdia">Dia:</string>
+    <string name="Wcartas">Cartas:</string>
+    <string name="Wmovimiento">Movimiento:</string>
+    <string name="Wenvasesprec">Precio por Envase:</string>
+
+    <string name="action_settings1">Guardar</string>
+    <string name="action_settings2">Salir</string>
+
+</resources>
